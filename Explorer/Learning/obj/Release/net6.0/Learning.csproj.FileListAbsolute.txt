@@ -1,0 +1,15 @@
+/Users/davidmcintyre/workspace/Learning/Learning/bin/Release/net6.0/Learning
+/Users/davidmcintyre/workspace/Learning/Learning/bin/Release/net6.0/Learning.deps.json
+/Users/davidmcintyre/workspace/Learning/Learning/bin/Release/net6.0/Learning.runtimeconfig.json
+/Users/davidmcintyre/workspace/Learning/Learning/bin/Release/net6.0/Learning.dll
+/Users/davidmcintyre/workspace/Learning/Learning/bin/Release/net6.0/Learning.pdb
+/Users/davidmcintyre/workspace/Learning/Learning/obj/Release/net6.0/Learning.csproj.AssemblyReference.cache
+/Users/davidmcintyre/workspace/Learning/Learning/obj/Release/net6.0/Learning.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidmcintyre/workspace/Learning/Learning/obj/Release/net6.0/Learning.AssemblyInfoInputs.cache
+/Users/davidmcintyre/workspace/Learning/Learning/obj/Release/net6.0/Learning.AssemblyInfo.cs
+/Users/davidmcintyre/workspace/Learning/Learning/obj/Release/net6.0/Learning.csproj.CoreCompileInputs.cache
+/Users/davidmcintyre/workspace/Learning/Learning/obj/Release/net6.0/Learning.dll
+/Users/davidmcintyre/workspace/Learning/Learning/obj/Release/net6.0/refint/Learning.dll
+/Users/davidmcintyre/workspace/Learning/Learning/obj/Release/net6.0/Learning.pdb
+/Users/davidmcintyre/workspace/Learning/Learning/obj/Release/net6.0/Learning.genruntimeconfig.cache
+/Users/davidmcintyre/workspace/Learning/Learning/obj/Release/net6.0/ref/Learning.dll
